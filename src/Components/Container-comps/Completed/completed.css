@@ -1,0 +1,7 @@
+.completed{
+    flex: 1;
+    height: 350px;
+    padding: 25px;
+    border-radius: 8px;
+    background-color: #fff;
+}

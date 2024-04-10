@@ -1,0 +1,10 @@
+.dashboard{
+    background-color: #faf8fb;
+    /* height: 100vh; */
+    display: flex;
+    box-sizing: border-box;
+   
+}
+.main{
+    width: 100%;
+}

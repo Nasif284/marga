@@ -1,0 +1,52 @@
+.premium{
+    width: 50%;
+    padding: 25px;
+    border-radius: 8px;
+     -webkit-backdrop-filter: blur(24px);
+     /* backdrop-filter: blur(24px); */
+     background-image: url('../../../Assets/bg.jpg');
+    /* background-image: linear-gradient(40deg, #a578ff 17%, #ff8ece 73%); */
+    display: flex;
+    flex-direction: column;
+    background-size: auto;
+     background-size: cover;
+    justify-content: space-between;
+}
+.premium img{
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
+}
+.premium-first{
+    display: flex;
+    flex-direction: column;
+}
+.premium-first h4{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    color: #243342;
+    margin-top: 2rem;
+}
+.premium-first p{
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: #243342;
+    margin-top: 0.75rem;
+}
+.button-premium{
+    width: 100%;
+    height: 43px;
+    /* padding: 14px 147px 14px 148px; */
+    border-radius: 10px;
+    background-color: #5e2cc4;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 1.6;
+    color: #fff;
+    
+}

@@ -1,0 +1,90 @@
+.pGraph{
+    width: 50%;
+    height: 350px;
+    padding: 25px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+.controle{
+    /* width: 120px; */
+    gap: 8px;
+    height: 40px;
+    padding: 12px 13.3px 11.4px 10px;
+    border-radius: 8px;
+    border: solid 1px #d6d6d6;
+    background-color: #fff;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.controle p{
+    font-family: inter;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.33;
+    color: #000f27;
+}
+.perfo-circular-graph{
+    width: 180px;
+    height: 150px;
+}
+.graph-container{
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.value-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.value-text p{
+font-family: Inter;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.19;
+  color: #243342;
+}
+.value-text span{
+    font-family: inter;
+  font-size: 12px;
+  line-height: 1.54;
+  color: #697a8d;
+}
+.graph-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 25px;
+}
+.graph-info div{
+    display: flex;
+    gap: 10px;
+
+    align-items: center;
+}
+.graph-info {
+    font-family: inter;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.53;
+  color: #383838;
+}
+.circle-1{
+    display: flex;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #9d73f3;
+}
+.circle-2{
+    background-color: #8f9caa;
+    display: flex;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}

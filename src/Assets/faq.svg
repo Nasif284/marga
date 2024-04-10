@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_19783" data-name="Group 19783" transform="translate(22818 17685)">
+    <rect id="Active" width="32" height="32" transform="translate(-22818 -17685)" fill="none"/>
+    <g id="Group_19784" data-name="Group 19784" transform="translate(1449.527 958.553)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(-24263.527 -18639.553)" fill="#fff" opacity="0"/>
+      <path id="Ellipse_2_-_Outline" data-name="Ellipse 2 - Outline" d="M12,2A10,10,0,1,0,22,12,10.011,10.011,0,0,0,12,2m0-2A12,12,0,1,1,0,12,12,12,0,0,1,12,0Z" transform="translate(-24263.527 -18639.553)" fill="#363b46" stroke="#fff" stroke-width="0.2"/>
+      <path id="Path_2" data-name="Path 2" d="M16.564,17.739a.749.749,0,0,1-.237-1.46c.794-.268,2.859-1.268,2.859-2.661a2.622,2.622,0,0,0-5.1-.875.749.749,0,0,1-1.413-.5,4.121,4.121,0,0,1,8.008,1.374,3.876,3.876,0,0,1-2.019,3.151,8.7,8.7,0,0,1-1.864.93A.749.749,0,0,1,16.564,17.739Z" transform="translate(-24268.168 -18643.381)" fill="#363b46"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="1.5" cy="1" rx="1.5" ry="1" transform="translate(-24252.527 -18623.34)" fill="#363b46"/>
+    </g>
+  </g>
+</svg>

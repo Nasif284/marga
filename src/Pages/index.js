@@ -1,5 +1,6 @@
-import Dashboard from "./Dashboard";
-
+import Dashboard from './Dashboard/Dashboard';
+import Classroom from './Classroom/Classroom';
 export {
-    Dashboard
+    Dashboard,
+    Classroom
 }

@@ -76,7 +76,7 @@ const Completed = () => {
       <div className='chart-container'>
 
         <LineChart
-          width={650}
+          width={570}
           height={280}
           data={data}
           margin={{

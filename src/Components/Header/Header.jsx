@@ -1,11 +1,11 @@
 import React from 'react'
 import './header.css'
 import { profileImg, search } from '../../Assets'
-const Header = () => {
+const Header = (prop) => {
   return (
     <div className='header'>
       <div className='heading'>
-        <p>Dashboard</p>
+        <p>{prop.heading}</p>
       </div>
       <div className='search-profile'>
         <div className='search'>

@@ -126,7 +126,7 @@ const Performance = () => {
       <div className="bar-chart-container">
 
         <BarChart
-          width={650}
+          width={570}
           height={280}
           data={data}
           margin={{

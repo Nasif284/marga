@@ -6,7 +6,7 @@ const Dashboard = () => {
     <div className='dashboard'>
       <Sidebar/>
       <div className='main'>
-      <Header/>
+      <Header heading="Dashboard"/>
       <Container/>
       </div>     
     </div>

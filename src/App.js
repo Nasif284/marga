@@ -1,13 +1,18 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
-import { Classroom, Dashboard } from './Pages';
-function App() {
-  
+import { MyClasses, Dashboard, Class, AllClasses } from './Pages';
+
+function App() { 
   return (
-    <div>
-      <Dashboard/>
-      {/* <Classroom/> */}
-    </div>
+    <Router>
+    <Routes>
+      <Route path="/" element={<Dashboard />} />
+      <Route path="/my-classes" element={<MyClasses />} />
+      <Route path="/all-classes" element={<AllClasses />} />
+      <Route path="/class" element={<Class />} />
+    </Routes>
+  </Router>
   );
 }
 

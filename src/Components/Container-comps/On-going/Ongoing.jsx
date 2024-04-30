@@ -35,7 +35,7 @@ const Ongoing = () => {
         </thead>
         <tbody>
           <tr>
-            <td className='img-td'><img className='thump' src={thump} alt="" />The Complete 2024 Web Develop...</td>
+            <td className='img-td'><div  style={{backgroundImage:`url(${thump})`}} className="thump"></div>The Complete 2024 Web Develop...</td>
             <td>50</td>
             <td>5-10 Min</td>
             <td >

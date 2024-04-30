@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <g data-name="Group 14918" transform="translate(-18 -198)">
+        <rect width="56" height="56" rx="16" transform="translate(18 198)" style="fill:none"/>
+        <g data-name="Group 14917">
+            <path data-name="Rectangle 9 - Outline" d="M1.4-1H7a2.4 2.4 0 0 1 2.4 2.4V7A2.4 2.4 0 0 1 7 9.4H1.4A2.4 2.4 0 0 1-1 7V1.4A2.4 2.4 0 0 1 1.4-1zM7 7.8a.8.8 0 0 0 .8-.8V1.4A.8.8 0 0 0 7 .6H1.4a.8.8 0 0 0-.8.8V7a.8.8 0 0 0 .8.8z" transform="translate(48.599 228.6)" style="fill:#363a46"/>
+            <path data-name="Rectangle 10 - Outline" d="M1.4-1H7a2.4 2.4 0 0 1 2.4 2.4V7A2.4 2.4 0 0 1 7 9.4H1.4A2.4 2.4 0 0 1-1 7V1.4A2.4 2.4 0 0 1 1.4-1zM7 7.8a.8.8 0 0 0 .8-.8V1.4A.8.8 0 0 0 7 .6H1.4a.8.8 0 0 0-.8.8V7a.8.8 0 0 0 .8.8z" transform="translate(48.599 215)" style="fill:#363a46"/>
+            <path data-name="Rectangle 11 - Outline" d="M1.4-1H7a2.4 2.4 0 0 1 2.4 2.4V7A2.4 2.4 0 0 1 7 9.4H1.4A2.4 2.4 0 0 1-1 7V1.4A2.4 2.4 0 0 1 1.4-1zM7 7.8a.8.8 0 0 0 .8-.8V1.4A.8.8 0 0 0 7 .6H1.4a.8.8 0 0 0-.8.8V7a.8.8 0 0 0 .8.8z" transform="translate(35 215)" style="fill:#363a46"/>
+            <path data-name="Rectangle 12 - Outline" d="M1.4-1H7a2.4 2.4 0 0 1 2.4 2.4V7A2.4 2.4 0 0 1 7 9.4H1.4A2.4 2.4 0 0 1-1 7V1.4A2.4 2.4 0 0 1 1.4-1zM7 7.8a.8.8 0 0 0 .8-.8V1.4A.8.8 0 0 0 7 .6H1.4a.8.8 0 0 0-.8.8V7a.8.8 0 0 0 .8.8z" transform="translate(35 228.6)" style="fill:#363a46"/>
+        </g>
+    </g>
+</svg>

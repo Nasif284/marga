@@ -68,6 +68,8 @@
 .thump{
     width: 58.7px;
     height: 44px;
+    background-size: cover;
+    border-radius: 5px;
 }
 
 .table-wrapper{
@@ -103,6 +105,7 @@
   justify-content: left;
   padding: 8px;
   align-items: center;
+
 }
 .fl-table th{
   font-family: Inter;

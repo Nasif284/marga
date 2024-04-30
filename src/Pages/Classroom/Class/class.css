@@ -1,0 +1,123 @@
+.nav{
+    display: flex;
+    gap: 2px;
+    align-items: center;
+}
+.nav a{
+    font-family: Inter;
+    font-size: 12px;
+    color: #5e2cc4;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    line-height: 1.25;
+}
+.nav span{
+    font-size: 8px;
+}
+.nav a:last-child{
+    color: #000;
+    font-weight: 500;
+}
+.class-info{
+    display: flex;
+    gap: 1.5rem;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    background-image: linear-gradient(95deg, #e4d6ff 7%, #fff2e7 97%);
+    margin-top: 15px;
+}
+.info-img{
+    width: 30%;
+    border-radius: 5px;
+    background-size: cover;
+}
+.info-description{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 5px 10px 30px 7px;
+}
+.info-description p:first-child{
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #5e2cc4;
+}
+.info-description h4{
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.21;
+    color: #000;
+}
+.info-description p:last-child{
+    font-size: 15px;
+    line-height: 1.55;
+}
+.class-btns{
+    display: flex;
+    margin-top: 1rem;
+}
+.class-btns button{
+    background: transparent;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-radius: 0;
+    font-size: 14px;
+    line-height: 1.25;
+}
+.class-btns .active {
+    border-bottom: solid 3px #9225d7 ;
+    border-radius: 2px;
+    font-weight: 600;
+}
+.class-btns :active{
+    border-bottom: solid 3px #9225d7 ;
+    border-radius: 2px;
+    font-weight: 600;
+}
+.card-footer button{
+    font-size: 12px;
+    font-weight: 500;
+    padding: 10px 20px;
+}
+.card-footer button:last-child{
+    color: #5e2cc4;
+}
+.card-footer button:first-child{
+    color: #ff6161;
+}
+.progress-bar{
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.start-end{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.start p:first-child, .end p:first-child{
+    font-size: 12px;
+    opacity: 0.39;
+}
+.start{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 5px;
+}
+.end{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    gap: 5px;
+}
+.start p:last-child,.end p:last-child{
+    font-size: 12px;
+}
+.card-footer{
+    margin-top: 15px;
+}

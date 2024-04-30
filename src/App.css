@@ -4,18 +4,21 @@
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
-    
+    font-family: inter;
 }
 img{
     width: 100%;
     
 }
 body{
-    background-color: #faf8fb;
+    /* background-color: #faf8fb; */
     box-sizing: border-box;
 }
 button{
     border: none;
-    outline: none;
-    
+    outline: none; 
+    padding: 0;
+}
+a{
+    text-decoration: none;
 }
